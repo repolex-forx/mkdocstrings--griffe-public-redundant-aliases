@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/mkdocstrings/griffe-public-redundant-aliases/commit/fc24c832817bd971ed5c775b49d0dd8b5f28ef78",
       "git:hexsha": "fc24c832817bd971ed5c775b49d0dd8b5f28ef78",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.3.2"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.3.2",
+      "repolex:parsedAt": "2026-10-10T22:43:00.026174+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mkdocstrings/griffe-public-redundant-aliases/commit/1ac974925605ee83d929da8820a7513bf517cc7c",
